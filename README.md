@@ -7,7 +7,13 @@
 python speed.txt > output.txt
 
 Sample output was created with the following commands:
+
 $ python3 speed.py 10 >> time_multiple_fibos.txt
+
 $ python3 speed.py 20 >> time_multiple_fibos.txt
+
 $ python3 speed.py 30 >> time_multiple_fibos.txt
+
 $ python3 speed.py 40 >> time_multiple_fibos.txt
+
+$ python3 speed.py 50 >> time_multiple_fibos.txt
