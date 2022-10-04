@@ -2,7 +2,7 @@
 
 ## Use the following command to time fibonacci iterations without and with caching.
 ## The number of iterations is requested manually and output appended to the text file.
-## Both @cache and @lru_cache(x) Python decorators are used.
+## The @lru_cache(maxsize = x) Python decorator is used.
 
 python speed.txt > output.txt
 
